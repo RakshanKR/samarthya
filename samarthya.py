@@ -1,1 +1,4 @@
-class
+class sam:
+    pass
+
+
